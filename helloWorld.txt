@@ -6,10 +6,10 @@ public class Helloworld{
 	system.out.println("");
 	
    }
-
-
-  
-  
+bbc
+a
+  bdc
+  ccc
   bbbbbbb
   
   
