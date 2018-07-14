@@ -6,6 +6,7 @@ public class Helloworld{
 	system.out.println("");
 	
    }
+jashasd收到没收到
 阿阿萨德sadsd
 
    public void hello(){
